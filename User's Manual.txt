@@ -1,0 +1,4 @@
+Requirements of program:
+Programming language: C 
+Graphics Library: SDL 1.2
+
